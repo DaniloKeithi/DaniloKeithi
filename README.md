@@ -3,7 +3,6 @@
 ## Sobre Mim 🙋‍♂️
   Sou Danilo Keithi Makiya Nakasone, estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade Estácio e formado pela ETEC em Técnico em Informática para Internet. Estou em busca da minha primeira oportunidade profissional como Estagiário ou Jovem Aprendiz na área de tecnologia da informação, com o objetivo de aplicar e ampliar os conhecimentos adquiridos durante minha formação técnica, contribuindo com dedicação, responsabilidade e vontade de aprender.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKeithi&layout=compact&theme=dracula&hide_border=true&langs_count=6)
 
 
 ## 🌱 Aprendendo
