@@ -1,5 +1,5 @@
 # Olá! Bem-Vindo(A) ao meu perfil👋
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/okeithii/?next=%2F)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/danilo-keithi-makiya-nakasone/) 
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/okeithii/?next=%2F)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/danilo-keithi-makiya-nakasone/) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfnbMMnpWFKTWpqWmqwZNXBJJcqHHLzbDDdqLDHQxFLCTXJSbGPCpGfTkTCcXKrtBNBfgV)
 ## 🚀 **Sobre Mim**
   Sou Danilo Keithi Makiya Nakasone, estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade Estácio e formado pela ETEC em Técnico em Informática para Internet. Estou em busca da minha primeira oportunidade profissional como Estagiário ou Jovem Aprendiz na área de tecnologia da informação, com o objetivo de aplicar e ampliar os conhecimentos adquiridos durante minha formação técnica, contribuindo com dedicação, responsabilidade e vontade de aprender.
 
