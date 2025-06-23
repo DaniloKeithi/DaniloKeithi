@@ -1,4 +1,4 @@
-##Olá, eu sou o Danilo Keithi
+## Olá, eu sou o Danilo Keithi
 
 - 🔭 Estou procurando mimha primeira oportunidade na área da tecnologia!
 - 🌱 Me aprofundando em JavaScripts e seus Frameworks
