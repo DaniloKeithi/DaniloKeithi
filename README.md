@@ -30,7 +30,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
+## 🌟 Projetos 
+### PERR - Parceria de Emprego e Reintegração de Refugiádos
+- Desenvolvimento de um site utilizando Vue.js para o front-end e Node.js para o back-end, com foco na criação de uma plataforma interativa e funcional.
+- Aplicação das 4 etapas do Design Thinking (Imersão, Definição, Ideação e Prototipação) para criar uma solução centrada no usuário.
+- Documentação do projeto conforme as normas da ABNT, incluindo a descrição do processo, justificativas, desafios enfrentados e soluções adotadas.
+- Desenvolvimento de habilidades em programação web, design de interface e experiência do usuário.
+- Apresentação do TCC para banca examinadora, demonstrando as funcionalidades do site e o raciocínio por trás de cada escolha técnica
 
 ##  🤝 **Conecte-se Comigo** 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](www.linkedin.com/in/danilo-keithi-makiya-nakasone)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:danilomakiya@gmail.com.com)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/okeithii)  
